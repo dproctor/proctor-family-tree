@@ -3,9 +3,9 @@
 2 VERS 4.2.8
 2 NAME Gramps
 1 DATE 1 OCT 2019
-2 TIME 14:10:55
+2 TIME 14:29:14
 1 SUBM @SUBM@
-1 FILE /home/devon/proctors.ged
+1 FILE /home/devon/projects/genealogy/proctors.ged
 1 COPR Copyright (c) 2019 .
 1 GEDC
 2 VERS 5.5.1
@@ -91,9 +91,9 @@
 2 DATE 1 OCT 2019
 3 TIME 14:01:59
 0 @I0005@ INDI
-1 NAME Anne Mundell /Coffey Proctor/
+1 NAME Anne Mundell /, Coffey, Proctor/
 2 GIVN Anne Mundell
-2 SPFX , 
+2 SPFX ,
 2 SURN Coffey, Proctor
 1 SEX F
 1 BIRT
@@ -163,8 +163,6 @@
 3 MAP
 4 LATI N38.893513
 4 LONG W77.15466
-2 ADDR
-3 CITY Washington, DC
 1 CHIL @I0000@
 1 CHIL @I0001@
 1 CHIL @I0003@
