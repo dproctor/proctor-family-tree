@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 4.2.8
 2 NAME Gramps
-1 DATE 1 OCT 2019
-2 TIME 15:53:40
+1 DATE 2 OCT 2019
+2 TIME 12:17:49
 1 SUBM @SUBM@
 1 FILE /home/devon/projects/genealogy/proctors.ged
 1 COPR Copyright (c) 2019 .
@@ -91,16 +91,17 @@
 2 DATE 1 OCT 2019
 3 TIME 14:01:59
 0 @I0005@ INDI
-1 NAME Anne Mundell /Coffey, Proctor/
+1 NAME Anne Mundell /Coffey Proctor/
 2 GIVN Anne Mundell
+2 SPFX , 
 2 SURN Coffey, Proctor
 1 SEX F
 1 BIRT
 2 DATE 27 JUN 1951
 1 FAMS @F0000@
 1 CHAN
-2 DATE 1 OCT 2019
-3 TIME 14:30:04
+2 DATE 2 OCT 2019
+3 TIME 12:14:32
 0 @I0006@ INDI
 1 NAME George Alan /Proctor/ Jr.
 2 GIVN George Alan
@@ -170,8 +171,8 @@
 0 @I0011@ INDI
 1 NAME Elsa Antonia /Falk Esherich/
 2 GIVN Elsa Antonia
-2 SPFX , Esherich
-2 SURN Falk, 
+2 SPFX , 
+2 SURN Falk, Esherich
 1 SEX F
 1 BIRT
 2 DATE 1888
@@ -179,8 +180,8 @@
 2 DATE 25 JUL 1977
 1 FAMS @F0002@
 1 CHAN
-2 DATE 1 OCT 2019
-3 TIME 15:33:01
+2 DATE 2 OCT 2019
+3 TIME 12:14:49
 0 @F0000@ FAM
 1 HUSB @I0004@
 1 WIFE @I0005@
